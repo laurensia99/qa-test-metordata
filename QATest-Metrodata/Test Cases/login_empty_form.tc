@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_empty_form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>300f77dd-21b0-40af-91ed-d0ca305c84f2</testCaseGuid>
+</TestCaseEntity>
